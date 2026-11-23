@@ -5,5 +5,4 @@ GitHub Pull Request events in n8n.
 
 - Testing webhook integration
 - Testing PR event detection
-- Learning workflow automation
-
+- Learning workflow
